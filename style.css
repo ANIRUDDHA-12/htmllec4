@@ -1,0 +1,25 @@
+/* selector is the component on which style is to be applied */
+/* property is the style given to the component */
+/* the whole of a selector and curly bracket is defined to be as ruleset  */
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.something{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    width: 20vw;
+    height: 50vh;
+    margin: auto;
+    background-color: lightcyan;
+}
+#login{
+    width:7vw ;
+    height:5vh;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
